@@ -1,2 +1,2 @@
-   # Git Learning Assignment
-   This is my first Git and GitHub project.
+# git-learning-assignment
+My first GitHub learning assignment.
