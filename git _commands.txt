@@ -1,0 +1,31 @@
+Git Important Commands
+
+ 1.⁠ ⁠git init
+   Initializes a new Git repository.
+
+ 2.⁠ ⁠git status
+   Shows the current state of the repository.
+
+ 3.⁠ ⁠git add .
+   Adds all changes to staging area.
+
+ 4.⁠ ⁠git commit -m "message"
+   Saves changes with a message.
+
+ 5.⁠ ⁠git branch
+   Shows available branches.
+
+ 6.⁠ ⁠git checkout -b branch-name
+   Creates and switches to a new branch.
+
+ 7.⁠ ⁠git merge branch-name
+   Merges another branch into current branch.
+
+ 8.⁠ ⁠git push origin branch-name
+   Pushes branch to GitHub.
+
+ 9.⁠ ⁠git pull
+   Fetches and merges changes from remote repository.
+
+10.⁠ ⁠git log
+    Shows commit history.
